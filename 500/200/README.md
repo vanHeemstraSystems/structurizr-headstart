@@ -65,23 +65,15 @@ Rather than argue over which diagramming tool you're going to use, why not use t
 
 You can also do the same with diagrams showing collaboration. Again, these were all generated from the same model, and rendered with different diagramming tools.
 
-[ See Image "" ]
-PlantUML
+[ See Image "structurizr-36141-SignIn-plantuml" ] PlantUML
 
-[ See Image "" ]
-WebSequenceDiagrams
+[ See Image "structurizr-36141-SignIn-websequencediagrams" ] WebSequenceDiagrams
 
-[ See Image "" ]
-Mermaid
+[ See Image "structurizr-36141-SignIn-mermaid" ] Mermaid
 
-[ See Image "" ]
-Mermaid
+[ See Image "structurizr-36141-SignIn-structurizr" ] Structurizr (dynamic diagram)
 
-[ See Image "" ]
-Structurizr (dynamic diagram)
-
-[ See Image "" ]
-Structurizr (diagram key)
+[ See Image "structurizr-36141-SignIn-structurizr-key" ] Structurizr (diagram key)
 
 ## Benefits
 In summary, the benefits of using text to create software architecture models with Structurizr include:
