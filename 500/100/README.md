@@ -45,7 +45,7 @@ This program creates a model containing elements and relationships, creates a si
 
 [ See Image "getting-started"  ]
 
-[ see Image "getting-started-diagram-key"  ]
+[ See Image "getting-started-diagram-key"  ]
 
 A diagram key is automatically generated for you, based upon the [styles](https://structurizr.com/help/notation) and [shapes](https://structurizr.com/help/shapes) defined in the model.
 
