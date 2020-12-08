@@ -109,8 +109,8 @@ In summary, the benefits of using code to create software architecture models wi
 ## Implementations
 The following implementations support the core concepts of the C4 model, and are compatible with the web API used by the Structurizr cloud service and on-premises installation. Diagrams can be rendered with Structurizr, or exported to PlantUML and WebSequenceDiagrams formats using the Structurizr CLI.
 
-|| Library || Input formats (create modesl using) ||
-||---||---||
+| Library | Input formats (create modesl using) |
+| --- | --- |
 | Structurizr for Java https:github.com/structurizr/java | Java and other JVM compatible languages (e.g. Groovy, Kotlin, Scala) |
 
 
