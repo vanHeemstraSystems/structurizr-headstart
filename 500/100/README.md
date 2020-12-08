@@ -2,7 +2,7 @@
 
 Java, .NET, TypeScript, PHP, Python, and Go via the JSON web API
 
-[ See Image "modeliing-code" ]
+[ See Image "modelling-code" ]
 
 ```
 
