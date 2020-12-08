@@ -111,7 +111,7 @@ The following implementations support the core concepts of the C4 model, and are
 
 | Library | Input formats (create modesl using) |
 | --- | --- |
-| Structurizr for Java https:github.com/structurizr/java | Java and other JVM compatible languages (e.g. Groovy, Kotlin, Scala) |
+| Structurizr for Java https://github.com/structurizr/java | Java and other JVM compatible languages (e.g. Groovy, Kotlin, Scala) |
 | Structurizr for .NET https://github.com/structurizr/dotnet | .NET compatible languages(Framework and Core) |
 | Structurizr for TypeScript https://github.com/ChristianEder/structurizr-typescript | TypeScript |
 | Structurizr for PHP https://github.com/structurizr-php/structurizr-php | PHP |
