@@ -112,7 +112,10 @@ The following implementations support the core concepts of the C4 model, and are
 | Library | Input formats (create modesl using) |
 | --- | --- |
 | Structurizr for Java https:github.com/structurizr/java | Java and other JVM compatible languages (e.g. Groovy, Kotlin, Scala) |
-
+| Structurizr for .NET https://github.com/structurizr/dotnet | .NET compatible languages(Framework and Core) |
+| Structurizr for TypeScript https://github.com/ChristianEder/structurizr-typescript | TypeScript |
+| Structurizr for PHP https://github.com/structurizr-php/structurizr-php | PHP |
+| Structurizr for Python https://github.com/Midnighter/structurizr-python | Python |
+| Structurizr for Go https://github.com/goadesign/structurizr | Go |
 
 See the GitHub repos linked above for getting started guides and code examples. Looking for [diagrams as text](../200/README.md) instead?
-
