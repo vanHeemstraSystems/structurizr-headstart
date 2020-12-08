@@ -53,20 +53,15 @@ A diagram key is automatically generated for you, based upon the [styles](https:
 ## Multiple output formats
 Rather than argue over which diagramming tool you're going to use, why not use them all? A huge benefit of creating software architecture models is that you can visualise the views in that model using ***multiple output formats***. For example, here are four versions of the same view (a C4 model container diagram), each created from the same model, and rendered in different diagramming tools.
 
-[ See Image "" ]
-PlantUML
+[ See Image "structurizr-36141-Containers-plantuml" ] PlantUML
 
-[ See Image "" ]
-Mermaid
+[ See Image "structurizr-36141-Containers-structurizr" ] Structurizr (traditional diagram)
 
-[ See Image "" ]
-Structurizr (traditional diagram)
+[ See Image "structurizr-36141-Containers-structurizr-key" ] Structurizr (diagram key)
 
-[ See Image "" ]
-Structurizr (diagram key)
+[ See Image "structurizr-36141-Containers-mermaid" ] Mermaid
 
-[ See Image "" ]
-Structurizr (graph visualisation)
+[ See Image "structurizr-36141-Containers-structurizr-graph" ] Structurizr (graph visualisation)
 
 You can also do the same with diagrams showing collaboration. Again, these were all generated from the same model, and rendered with different diagramming tools.
 
