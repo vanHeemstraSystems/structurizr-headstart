@@ -31,6 +31,6 @@ Next, create a new workspace by clicking the  Create a new workspace link on you
 
 See [README.md](./500/README.md)
 
-You now have a choice of how you would like to create the software architecture model in your workspace. Structurizr lets you create a software architecture model using code or text (via the JSON-based web API), or with our browser-based UI (recommended for non-programmers, and smaller software architecture models).
+You now have a choice of how you would like to create the software architecture model in your workspace. Structurizr lets you create a software architecture model using [code](./500/100/README.md) or [text](./500/200/README.md) (via the JSON-based web API), or with our [browser-based UI](./500/300/README.md) (recommended for non-programmers, and smaller software architecture models).
 
 
