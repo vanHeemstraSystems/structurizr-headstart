@@ -63,4 +63,56 @@ Some of these features are available out of the box with some of the client libr
 
 Rather than argue over which diagramming tool you're going to use, why not use them all? A huge benefit of creating software architecture models is that you can visualise the views in that model using ***multiple output formats***. For example, here are four versions of the same view (a C4 model container diagram), each created from the same model, and rendered in different diagramming tools.
 
+[ See Image "structurizr-36141-Containers-plantuml" ]
+PlantUML
+
+[ See Image "structurizr-36141-Containers-structurizr" ]
+Structurizr (traditional diagram)
+
+[ See Image "structurizr-36141-Containers-structurizr-key" ]
+Structurizr (diagram key)
+
+[ See Image "structurizr-36141-Containers-mermaid" ]
+Mermaid
+
+[ See Image "structurizr-36141-Containers-structurizr-graph" ]
+Struturizr (graph visualisation)
+
+You can also do the same with diagrams showing collaboration. Again, these were all generated from the same model, and rendered with different diagramming tools.
+
+[ See Image "structurizr-36141-SignIn-plantuml" ]
+PlantUML
+
+[ See Image "structurizr-36141-SignIn-websequencediagrams" ]
+WebSequenceDiagrams
+
+[ See Image "structurizr-36141-SignIn-mermaid" ]
+Mermaid
+
+[ See Image "structurizr-36141-SignIn-structurizr" ]
+Structurizr (dynamic diagram)
+
+[ See Image "structurizr-36141-SignIn-structurizr-key" ]
+Structurizr (diagram key)
+
+## Benefits
+In summary, the benefits of using code to create software architecture models with Structurizr include:
+
+- ***Consistency***: Generating multiple diagrams from the same model ensures consistency, and details being in sync across diagrams.
+- ***Code is familiar***: Code is familiar to us as software developers, so let's take advantage of this rather than creating another language with which to represent a software architecture model.
+- ***Flexibility for creating models***: In addition to manually writing code to create a software architecture model, we can also write code to extract architectural concepts (e.g. components) from our production codebase using techniques such as reflection, introspection and static analysis.
+- ***Multiple output formats***: Rather than being locked into a single tool, creating your model as code provides a way to export your views to multiple formats.
+- ***Flexibility for visualising models***: Writing code to create the views of a software architecture model provides you with the ability to slice and dice the model as needed. For example, showing all components for a large system will result in a very cluttered diagram. Instead, you can simply write some code to programmatically create a number of smaller, simpler diagrams; perhaps one per vertical slice, web controller, user story, etc. You can also opt to include or exclude any elements as necessary.
+- ***Versionable***: Since the models are code, they are also versionable alongside your codebase in your version control system.
+- ***Living documentation***: The code to generate the model can be integrated with your automated build system to keep your models up to date; providing accurate, up-to-date, living software architecture diagrams that actually reflect the code.
+
+## Implementations
+The following implementations support the core concepts of the C4 model, and are compatible with the web API used by the Structurizr cloud service and on-premises installation. Diagrams can be rendered with Structurizr, or exported to PlantUML and WebSequenceDiagrams formats using the Structurizr CLI.
+
+|| Library || Input formats (create modesl using) ||
+||---||---||
+| Structurizr for Java https:github.com/structurizr/java | Java and other JVM compatible languages (e.g. Groovy, Kotlin, Scala) |
+
+
+See the GitHub repos linked above for getting started guides and code examples. Looking for [diagrams as text](../200/README.md) instead?
 
