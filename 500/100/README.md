@@ -76,7 +76,7 @@ Structurizr (diagram key)
 Mermaid
 
 [ See Image "structurizr-36141-Containers-structurizr-graph" ]
-Struturizr (graph visualisation)
+Structurizr (graph visualisation)
 
 You can also do the same with diagrams showing collaboration. Again, these were all generated from the same model, and rendered with different diagramming tools.
 
